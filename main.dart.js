@@ -70062,7 +70062,7 @@ A.D0.prototype={
 I(a){var s=null,r=A.Uc(B.fy,new A.iM("assets/images/bg_img_2.png",s,s))
 return A.cW(s,A.dJ(A.a([A.br(s,50,s),new A.na("Contact Me","For Project inquiry and information",new A.E(4278706762),s),new A.CZ(s)],t.p),B.aw,B.V,B.E),B.m,s,s,new A.bH(new A.E(4293456121),r,s,s,s,s,B.O),s,s,s,s,s,s,1/0)}}
 A.CZ.prototype={
-I(a){var s=null,r="TheFlutterWay",q=t.p
+I(a){var s=null,r="MuhammeThajueen",q=t.p
 return A.cW(s,A.dJ(A.a([A.fC(A.a([new A.nn("assets/images/skype.png",r,new A.E(4292476924),new A.TN(),s),new A.nn("assets/images/whatsapp.png",r,new A.E(4293197767),new A.TO(),s),new A.nn("assets/images/messanger.png",r,new A.E(4293456121),new A.TP(),s)],q),B.dc,B.E),A.br(s,40,s),new A.D_(s)],q),B.aw,B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),new A.bH(B.i,s,s,new A.c0(new A.aZ(20,20),new A.aZ(20,20),B.w,B.w),s,s,B.O),s,s,new A.al(0,40,0,0),new A.al(60,60,60,60),s,s,s)}}
 A.TN.prototype={
 $0(){},
