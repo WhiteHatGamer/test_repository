@@ -70001,7 +70001,7 @@ A.F3.prototype={
 I(a){var s=null,r=A.fX(20),q=A.a([$.ajo()],t.V),p=t.p
 return A.cW(s,A.fC(A.a([A.hX("assets/images/email.png",s,80,80),new A.dG(B.mU,A.br(new A.JA(s),80,s),s),A.En(A.dJ(A.a([A.bY("Starting New Project?",s,s,s,A.cn(s,s,s,s,s,s,s,s,s,s,s,42,s,s,B.aE,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.br(s,10,s),A.bY("Get an estimate for the new project",s,s,s,A.cn(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.ea,s,s,!0,s,s,s,s,s,s,s,s),s,s)],p),B.bt,B.V,B.E),1),new A.oI("assets/images/hand.png","Hire Me!",new A.YM(),s)],p),B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),new A.bH(B.i,s,s,r,q,s,B.O),s,s,s,new A.al(40,40,40,40),s,s,s)}}
 A.YM.prototype={
-$0(){},
+$0(){document.write("Hire Me!");location.href = "https://www.linkedin.com/in/muhammed-thajudeen-t-c-245a63251/"},
 $S:4}
 A.G0.prototype={
 I(a){var s=null,r=A.alk(s,s,s,s,s,s,s,s,s,s,s,s,new A.al(50,20,50,20),s,new A.ck(A.fX(50),B.q),new A.bO(new A.E(4293783021),1,B.a5,-1),s,s,s,s)
@@ -70014,18 +70014,18 @@ I(a){var s=null
 return new A.wv(new A.Ij(A.dJ(A.a([new A.Jk(s),A.br(s,40,s),new A.Bq(s),new A.Ig(s),new A.Ha(s),new A.Et(s),A.br(s,20,s),new A.D0(s)],t.p),B.aw,B.V,B.E),s),s)}}
 A.G_.prototype={
 I(a){var s=null
-return new A.v7(new A.F5(s),"Muhammed Thajudee | Portfolio",A.amk(s,$.aqN(),s,A.amx()),!1,s)}}
+return new A.v7(new A.F5(s),"Muhammed Thajudeen | Portfolio",A.amk(s,$.aqN(),s,A.amx()),!1,s)}}
 A.Es.prototype={}
 A.H9.prototype={}
 A.If.prototype={}
 A.Bq.prototype={
 I(a){var s=null,r="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",q=t.p
-return A.cW(s,A.dJ(A.a([A.fC(A.a([new A.Br(s),A.En(new A.rA(r,s),1),new A.Ep("01",s),A.En(new A.rA(r,s),1)],q),B.dc,B.E),A.br(s,60,s),A.fC(A.a([new A.G0("assets/images/hand.png","Hire Me!",new A.S6(),s),A.br(s,s,30),new A.oI("assets/images/download.png","Download CV".l,new A.S7(),s)],q),B.db,B.E)],q),B.aw,B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),s,s,s,new A.al(0,40,0,40),s,s,s,s)}}
+return A.cW(s,A.dJ(A.a([A.fC(A.a([new A.Br(s),A.En(new A.rA(r,s),1),new A.Ep("01",s),A.En(new A.rA(r,s),1)],q),B.dc,B.E),A.br(s,60,s),A.fC(A.a([new A.G0("assets/images/hand.png","Hire Me!",new A.S6(),s),A.br(s,s,30),new A.oI("assets/images/download.png","Download CV",new A.S7(),s)],q),B.db,B.E)],q),B.aw,B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),s,s,s,new A.al(0,40,0,40),s,s,s,s)}}
 A.S6.prototype={
-$0(){},
+$0(){location.href = 'https://www.linkedin.com/in/muhammed-thajudeen-t-c-245a63251/'},
 $S:4}
 A.S7.prototype={
-$0(){location.href = "https://google.com"},
+$0(){},
 $S:4}
 A.rA.prototype={
 I(a){var s=null
@@ -70102,7 +70102,7 @@ if(r.e)l.push($.Bm())
 s=A.ajI(B.i,10)
 m=A.a([],m)
 if(!r.e)m.push($.Bm())
-return A.pb(!1,!0,A.rF(A.dJ(A.a([A.ahX(A.rF(q,new A.bH(q,A.Uc(q,new A.iM($.S1()[r.a.c].c,q,q)),s,q,m,q,B.fz),p,100,q,q,100),new A.j(0,-55)),A.bY($.S1()[r.a.c].b,q,q,q,A.cn(q,q,B.dY,q,q,q,q,q,q,q,q,18,B.A8,q,B.nc,q,1.5,!0,q,q,q,q,q,q,q,q),q,q),A.br(q,40,q),A.bY("muhammed Thajudeen",q,q,q,A.cn(q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.aE,q,q,!0,q,q,q,q,q,q,q,q),q,q)],t.p),B.aw,B.V,B.E),new A.bH(o.e,q,q,n,l,q,B.O),p,350,new A.al(0,60,0,0),new A.al(20,0,20,0),350),q,!0,q,q,q,B.M,q,q,q,new A.a9N(r),q,new A.a9O(),q,q,q,q)}}
+return A.pb(!1,!0,A.rF(A.dJ(A.a([A.ahX(A.rF(q,new A.bH(q,A.Uc(q,new A.iM($.S1()[r.a.c].c,q,q)),s,q,m,q,B.fz),p,100,q,q,100),new A.j(0,-55)),A.bY($.S1()[r.a.c].b,q,q,q,A.cn(q,q,B.dY,q,q,q,q,q,q,q,q,18,B.A8,q,B.nc,q,1.5,!0,q,q,q,q,q,q,q,q),q,q),A.br(q,40,q),A.bY("Muhammed Thajudeen",q,q,q,A.cn(q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.aE,q,q,!0,q,q,q,q,q,q,q,q),q,q)],t.p),B.aw,B.V,B.E),new A.bH(o.e,q,q,n,l,q,B.O),p,350,new A.al(0,60,0,0),new A.al(20,0,20,0),350),q,!0,q,q,q,B.M,q,q,q,new A.a9N(r),q,new A.a9O(),q,q,q,q)}}
 A.a9O.prototype={
 $0(){},
 $S:0}
