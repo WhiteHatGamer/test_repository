@@ -70014,13 +70014,13 @@ I(a){var s=null
 return new A.wv(new A.Ij(A.dJ(A.a([new A.Jk(s),A.br(s,40,s),new A.Bq(s),new A.Ig(s),new A.Ha(s),new A.Et(s),A.br(s,20,s),new A.D0(s)],t.p),B.aw,B.V,B.E),s),s)}}
 A.G_.prototype={
 I(a){var s=null
-return new A.v7(new A.F5(s),"Flutter Demo",A.amk(s,$.aqN(),s,A.amx()),!1,s)}}
+return new A.v7(new A.F5(s),"Muhammed Thajudee | Portfolio",A.amk(s,$.aqN(),s,A.amx()),!1,s)}}
 A.Es.prototype={}
 A.H9.prototype={}
 A.If.prototype={}
 A.Bq.prototype={
 I(a){var s=null,r="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",q=t.p
-return A.cW(s,A.dJ(A.a([A.fC(A.a([new A.Br(s),A.En(new A.rA(r,s),1),new A.Ep("01",s),A.En(new A.rA(r,s),1)],q),B.dc,B.E),A.br(s,60,s),A.fC(A.a([new A.G0("assets/images/hand.png","Hire Me!",new A.S6(),s),A.br(s,s,30),new A.oI("assets/images/download.png","Download CV",new A.S7(),s)],q),B.db,B.E)],q),B.aw,B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),s,s,s,new A.al(0,40,0,40),s,s,s,s)}}
+return A.cW(s,A.dJ(A.a([A.fC(A.a([new A.Br(s),A.En(new A.rA(r,s),1),new A.Ep("01",s),A.En(new A.rA(r,s),1)],q),B.dc,B.E),A.br(s,60,s),A.fC(A.a([new A.G0("assets/images/hand.png","Hire Me!",new A.S6(),s),A.br(s,s,30),new A.oI("assets/images/download.png","Download CV".l,new A.S7(),"https://www.google.com/")],q),B.db,B.E)],q),B.aw,B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),s,s,s,new A.al(0,40,0,40),s,s,s,s)}}
 A.S6.prototype={
 $0(){},
 $S:4}
@@ -70062,7 +70062,7 @@ A.D0.prototype={
 I(a){var s=null,r=A.Uc(B.fy,new A.iM("assets/images/bg_img_2.png",s,s))
 return A.cW(s,A.dJ(A.a([A.br(s,50,s),new A.na("Contact Me","For Project inquiry and information",new A.E(4278706762),s),new A.CZ(s)],t.p),B.aw,B.V,B.E),B.m,s,s,new A.bH(new A.E(4293456121),r,s,s,s,s,B.O),s,s,s,s,s,s,1/0)}}
 A.CZ.prototype={
-I(a){var s=null,r="MuhammeThajueen",q=t.p
+I(a){var s=null,r="MuhammedThajudeen",q=t.p
 return A.cW(s,A.dJ(A.a([A.fC(A.a([new A.nn("assets/images/skype.png",r,new A.E(4292476924),new A.TN(),s),new A.nn("assets/images/whatsapp.png",r,new A.E(4293197767),new A.TO(),s),new A.nn("assets/images/messanger.png",r,new A.E(4293456121),new A.TP(),s)],q),B.dc,B.E),A.br(s,40,s),new A.D_(s)],q),B.aw,B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),new A.bH(B.i,s,s,new A.c0(new A.aZ(20,20),new A.aZ(20,20),B.w,B.w),s,s,B.O),s,s,new A.al(0,40,0,0),new A.al(60,60,60,60),s,s,s)}}
 A.TN.prototype={
 $0(){},
@@ -70102,7 +70102,7 @@ if(r.e)l.push($.Bm())
 s=A.ajI(B.i,10)
 m=A.a([],m)
 if(!r.e)m.push($.Bm())
-return A.pb(!1,!0,A.rF(A.dJ(A.a([A.ahX(A.rF(q,new A.bH(q,A.Uc(q,new A.iM($.S1()[r.a.c].c,q,q)),s,q,m,q,B.fz),p,100,q,q,100),new A.j(0,-55)),A.bY($.S1()[r.a.c].b,q,q,q,A.cn(q,q,B.dY,q,q,q,q,q,q,q,q,18,B.A8,q,B.nc,q,1.5,!0,q,q,q,q,q,q,q,q),q,q),A.br(q,40,q),A.bY("Ronald Thompson",q,q,q,A.cn(q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.aE,q,q,!0,q,q,q,q,q,q,q,q),q,q)],t.p),B.aw,B.V,B.E),new A.bH(o.e,q,q,n,l,q,B.O),p,350,new A.al(0,60,0,0),new A.al(20,0,20,0),350),q,!0,q,q,q,B.M,q,q,q,new A.a9N(r),q,new A.a9O(),q,q,q,q)}}
+return A.pb(!1,!0,A.rF(A.dJ(A.a([A.ahX(A.rF(q,new A.bH(q,A.Uc(q,new A.iM($.S1()[r.a.c].c,q,q)),s,q,m,q,B.fz),p,100,q,q,100),new A.j(0,-55)),A.bY($.S1()[r.a.c].b,q,q,q,A.cn(q,q,B.dY,q,q,q,q,q,q,q,q,18,B.A8,q,B.nc,q,1.5,!0,q,q,q,q,q,q,q,q),q,q),A.br(q,40,q),A.bY("muhammed Thajudeen",q,q,q,A.cn(q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.aE,q,q,!0,q,q,q,q,q,q,q,q),q,q)],t.p),B.aw,B.V,B.E),new A.bH(o.e,q,q,n,l,q,B.O),p,350,new A.al(0,60,0,0),new A.al(20,0,20,0),350),q,!0,q,q,q,B.M,q,q,q,new A.a9N(r),q,new A.a9O(),q,q,q,q)}}
 A.a9O.prototype={
 $0(){},
 $S:0}
@@ -70175,7 +70175,7 @@ A.FD.prototype={
 I(a){var s=null
 return A.dJ(A.a([A.hX("assets/images/Logo.png",s,s,s),new A.x1(1,s),new A.F_(this.c,s),new A.x1(3,s)],t.p),B.bt,B.V,B.E)}}
 A.vd.prototype={
-ag(){return new A.MK(A.a(["Home","Abour","Services","Portfolio","Testimonial","Contact"],t.s),B.k)}}
+ag(){return new A.MK(A.a(["Home","About","Services","Portfolio","Testimonial","Contact"],t.s),B.k)}}
 A.MK.prototype={
 I(a){var s,r=null,q=A.a([$.ajo()],t.V),p=J.Fh(6,t.l7)
 for(s=0;s<6;++s)p[s]=this.a3b(s)
@@ -75251,7 +75251,7 @@ return A.atv(q,q,q)})
 s($,"aEz","aqO",()=>A.aub(B.cD,A.ary(A.ka(4291749117),-1,B.a5,1),4))
 r($,"aEv","S1",()=>{var q="Muhammed Thajudeen",p="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua enim ad minim veniam.",o="assets/images/people.png"
 return A.a([A.agZ(A.ka(4294964189),1,q,p,o),A.agZ(A.ka(4292476924),2,q,p,o),A.agZ(A.ka(4294959328),3,q,p,o)],A.a7("v<Es>"))})
-r($,"aEI","ajs",()=>{var q="Flutter-based clone of the Facebook homepage created for widget and function study. Features various sections like news feed, stories. Designed for view-only mode; interactive features like liking and commenting are non-functional. ",p="Flutter Developer"
+r($,"aEI","ajs",()=>{var q="Flutter-based homepage created for widget and function study. Features various sections like UI, CRUD Operations etc.",p="Flutter Developer"
 return A.a([A.a1Q(p,1,"assets/images/work_1.png",q),A.a1Q(p,2,"assets/images/work_2.png",q),A.a1Q(p,3,"assets/images/work_3.png",q),A.a1Q(p,4,"assets/images/work_4.png",q)],A.a7("v<H9>"))})
 r($,"aEK","ago",()=>A.a([A.a4e(A.ka(4292476924),1,"assets/images/graphic.png","Flutter Developer"),A.a4e(A.ka(4293197767),2,"assets/images/desktop.png","Web Design"),A.a4e(A.ka(4294964189),3,"assets/images/ui.png","UI Design"),A.a4e(A.ka(4294959328),4,"assets/images/Intreaction_design.png","Interaction Design")],A.a7("v<If>")))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
