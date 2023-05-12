@@ -70020,12 +70020,12 @@ A.H9.prototype={}
 A.If.prototype={}
 A.Bq.prototype={
 I(a){var s=null,r="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",q=t.p
-return A.cW(s,A.dJ(A.a([A.fC(A.a([new A.Br(s),A.En(new A.rA(r,s),1),new A.Ep("01",s),A.En(new A.rA(r,s),1)],q),B.dc,B.E),A.br(s,60,s),A.fC(A.a([new A.G0("assets/images/hand.png","Hire Me!",new A.S6(),s),A.br(s,s,30),new A.oI("assets/images/download.png","Download CV".l,new A.S7(),"https://www.google.com/")],q),B.db,B.E)],q),B.aw,B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),s,s,s,new A.al(0,40,0,40),s,s,s,s)}}
+return A.cW(s,A.dJ(A.a([A.fC(A.a([new A.Br(s),A.En(new A.rA(r,s),1),new A.Ep("01",s),A.En(new A.rA(r,s),1)],q),B.dc,B.E),A.br(s,60,s),A.fC(A.a([new A.G0("assets/images/hand.png","Hire Me!",new A.S6(),s),A.br(s,s,30),new A.oI("assets/images/download.png","Download CV".l,new A.S7(),s)],q),B.db,B.E)],q),B.aw,B.V,B.E),B.m,s,new A.ak(0,1110,0,1/0),s,s,s,new A.al(0,40,0,40),s,s,s,s)}}
 A.S6.prototype={
 $0(){},
 $S:4}
 A.S7.prototype={
-$0(){},
+$0(){location.href = "https://google.com"},
 $S:4}
 A.rA.prototype={
 I(a){var s=null
