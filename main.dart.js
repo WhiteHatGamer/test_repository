@@ -70139,7 +70139,7 @@ I(a){var s,r,q=null,p=A.ap(B.d.b9(76.5),247,232,255),o=A.Uc(B.fy,new A.iM("asset
 $.ajs()
 s=J.Fh(4,t.l7)
 for(r=0;r<4;++r)s[r]=new A.w9(r,new A.a1R(),q)
-return A.cW(q,A.dJ(A.a([n,new A.na("Recent Woorks","My Strong Arenas",new A.E(4294947072),q),m,A.br(A.amA(s,40,20),q,1110),A.br(q,100,q)],t.p),B.aw,B.V,B.E),B.m,q,q,new A.bH(p,o,q,q,q,q,B.O),q,q,new A.al(0,120,0,0),q,q,q,1/0)}}
+return A.cW(q,A.dJ(A.a([n,new A.na("Recent Works","My Strong Arenas",new A.E(4294947072),q),m,A.br(A.amA(s,40,20),q,1110),A.br(q,100,q)],t.p),B.aw,B.V,B.E),B.m,q,q,new A.bH(p,o,q,q,q,q,B.O),q,q,new A.al(0,120,0,0),q,q,q,1/0)}}
 A.a1R.prototype={
 $0(){},
 $S:4}
